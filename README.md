@@ -1,4 +1,4 @@
-# C--DSA-Learning
+# C++-DSA-Learning
 # C++ and Data Structures Learning Journey 📚
 
 ## Week 1: Syntax, Conditionals, Loops, and Patterns
